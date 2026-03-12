@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id btn_save
+id btn_test
+id btn_toggle
+id et_device_id
+id et_password
+id et_server_url
+id tv_logs
+id tv_status
+layout activity_main
